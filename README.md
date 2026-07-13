@@ -89,7 +89,6 @@ Projects you'll find include:
 
 📧 Email: sbongsenikhanyile90@gmail.com
 
-🌐 Portfolio: *(Add your Google Sites portfolio link here once updated)*
 
 ---
 

@@ -1,40 +1,96 @@
-# 👋 Hi, I’m S’bongiseni Khanyile
+# 👋 Hi, I'm S'bongiseni Khanyile
 
-🌍 **Data Science learner (ALX)** | 🤖 **Generative AI student (AWS)** | 🧠 **Aspiring AI Specialist**
+### Operations Professional | Data Science | Artificial Intelligence | Founder at Vault Architect Global
 
----
+I enjoy building systems that help businesses work smarter.
 
-### 💡 About Me  
-I’m passionate about building AI systems that make a difference — especially in protecting **endangered animals** in national parks. Currently, I’m honing my skills in **Machine Learning** and **Generative AI** to build intelligent, ethical solutions addressing real-world challenges.
+After spending more than a decade leading retail operations and developing high-performing teams, I transitioned into Data Science and Artificial Intelligence to combine operational experience with technology. Today, I focus on using data, automation, and AI to solve practical business problems and improve the way organisations operate.
 
-Before transitioning into tech, I spent over **12 years in retail leadership**, where I:
-- Led and trained multiple teams, including onboarding new staff and training them for new store openings  
-- Focused on driving **customer satisfaction**, staff development, and operational excellence  
-- Cultivated a strong eye for **attention to detail**, process improvement, and teamwork
-
-Now I’m merging that leadership background with data science to create solutions that balance **technology, ethics, and real impact**.
+I recently completed the **ALX Data Science Programme** and continue expanding my expertise through AWS Generative AI learning. Alongside this, I founded **Vault Architect Global**, where I'm developing Financial Evidence Architecture—a structured approach to creating reliable, traceable, and defensible financial data systems.
 
 ---
 
-### 🧰 Skills & Tools  
-- **Languages & Libraries:** Python, Pandas, NumPy, Matplotlib, Scikit-learn  
-- **Data Visualization:** Tableau, Power BI, Excel  
-- **Collaboration & Productivity:** Google Workspace, Microsoft Office, GitHub  
-- **Leadership:** Team training & development, performance management, customer care  
+## 🚀 What You'll Find Here
+
+This GitHub is where I document my journey from operational leadership into Data Science and AI through practical, business-focused projects.
+
+Projects you'll find include:
+
+- 📊 Data Analysis & Visualisation
+- 🐍 Python Applications
+- 🗄 SQL Projects
+- 🤖 Artificial Intelligence & Automation
+- 📈 Business Analytics
+- ⚙ Process Improvement Solutions
+- 🏢 Operational Systems & Documentation
 
 ---
 
-### 🚀 Current Focus  
-- Building up my portfolio with **data analysis and machine learning projects**  
-- Delving into **AI ethics** and **tech for wildlife conservation**  
-- Showcasing all this work with **well-documented GitHub projects**
+## 🛠 Tech Stack
+
+### Programming
+
+- Python
+- SQL
+
+### Data Science
+
+- Pandas
+- NumPy
+- Matplotlib
+- Scikit-learn
+
+### Analytics
+
+- Power BI
+- Microsoft Excel
+
+### AI
+
+- Amazon Bedrock
+- Prompt Engineering
+- ChatGPT
+- AI Productivity Workflows
+
+### Tools
+
+- Git
+- GitHub
+- Google Workspace
+- Microsoft Office
 
 ---
 
-### 🌍 Vision  
-> “To create AI solutions that protect wildlife, empower human potential, and serve the planet.”
+## 🌍 Current Focus
+
+- Building business-focused AI and Data Science projects
+- Expanding my Python and SQL portfolio
+- Designing operational systems through Vault Architect Global
+- Exploring AI solutions for business operations and wildlife conservation
 
 ---
 
-### 📫 Connect with Me  
-- **LinkedIn:** [S’bongiseni Khanyile](https://www.linkedin.com/in/sbongisenikhanyile-b72170187)
+## 🎯 Professional Interests
+
+- Business Operations
+- Data Science
+- Artificial Intelligence
+- Business Intelligence
+- Process Improvement
+- Workflow Automation
+- Financial Evidence Architecture
+- AI for Wildlife Conservation
+
+---
+
+## 📫 Let's Connect
+
+💼 LinkedIn: https://linkedin.com/in/sbongiseni-khanyile
+
+📧 Email: sbongsenikhanyile90@gmail.com
+
+🌐 Portfolio: *(Add your Google Sites portfolio link here once updated)*
+
+---
+
+> *"I believe great technology should solve real problems. My goal is to build practical solutions that improve businesses, empower people, and create lasting impact."*
